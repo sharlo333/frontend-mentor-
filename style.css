@@ -165,4 +165,10 @@ body {
         max-width: 1440px;
         padding: 10px;
     }
+    .container .item:nth-child(1) .img {
+        position: absolute;
+        top: 25px;
+        right: 50px;
+        display: none;
+    }  
 }
